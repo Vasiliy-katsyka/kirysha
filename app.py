@@ -116,7 +116,7 @@ TELETHON_HEART_EMOJI = "❤️"
 STAR_TO_RUB_RATE = 1.65
 
 # Tonnel Gifting Configuration (placeholders should be replaced with actual values)
-TONNEL_SENDER_INIT_DATA = "user=%7B%22id%22%3A5146625949%2C%22first_name%22%3A%22%F0%9D%99%91%F0%9D%98%BC%F0%9D%99%8E%F0%9D%99%84%F0%9D%99%87%F0%9D%99%84%F0%9D%99%94%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Vasiliy939%22%2C%22language_code%22%3A%22en%22%2C%22is_premium%22%3Atrue%2C%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FXkLMSNnNOFwEiPSG-pvw0rtZyZpxl3Mabrm0ORyPo3zb6TTkLCiOwxIJ-gIV6o0K.svg%22%7D&chat_instance=9152189631026101607&chat_type=sender&start_param=4725037&auth_date=1747423191&signature=iX22zf0TMxVv_YaSF60awKK_oY6RY4NPMLFCTADU5Lhx77N0nldHltqnYOISYh5UuilYzgcCo_CnGrWsuMDA&hash=b6747e35feedca5349e2be2fdf052c91cd797dbfbbd3ad64f7d774a47a77f100")
+TONNEL_SENDER_INIT_DATA = "user=%7B%22id%22%3A5146625949%2C%22first_name%22%3A%22%F0%9D%99%91%F0%9D%98%BC%F0%9D%99%8E%F0%9D%99%84%F0%9D%99%87%F0%9D%99%84%F0%9D%99%94%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Vasiliy939%22%2C%22language_code%22%3A%22en%22%2C%22is_premium%22%3Atrue%2C%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FXkLMSNnNOFwEiPSG-pvw0rtZyZpxl3Mabrm0ORyPo3zb6TTkLCiOwxIJ-gIV6o0K.svg%22%7D&chat_instance=9152189631026101607&chat_type=sender&start_param=4725037&auth_date=1747423191&signature=iX22zf0TMxVv_YaSF60awKK_oY6RY4NPMLFCTADU5Lhx77N0nldHltqnYOISYh5UuilYzgcCo_CnGrWsuMDA&hash=b6747e35feedca5349e2be2fdf052c91cd797dbfbbd3ad64f7d774a47a77f100"
 TONNEL_GIFT_SECRET = "yowtfisthispieceofshitiiit"
 
 HUG_EMOJI = "🤗" # Or any hug emoji you prefer
