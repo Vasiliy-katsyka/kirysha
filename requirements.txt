@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+Flask
+beautifulsoup4
+requests
+schedule
+pytz
+telethon
+pycryptodome  # Required for Crypto imports
+curl_cffi
+gunicorn      # For production deployment on Render
