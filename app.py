@@ -152,7 +152,7 @@ CONFIRM_GIFT_REGEX = re.compile(r"^\s*(да|нет)\s*$", re.IGNORECASE)
 # Example: If your app is named 'my-telegram-bot', it would be "https://my-telegram-bot.onrender.com"
 WEBHOOK_HOST = '0.0.0.0'
 WEBHOOK_PORT = int(os.environ.get('PORT', 5000)) # Default to 5000 if not set by Render
-WEBHOOK_URL_BASE = "https://<YOUR_RENDER_APP_NAME>.onrender.com" # !!! REPLACE THIS WITH YOUR RENDER APP URL !!!
+WEBHOOK_URL_BASE = "https://kirysha.onrender.com" # !!! REPLACE THIS WITH YOUR RENDER APP URL !!!
 WEBHOOK_URL_PATH = "/botwebhook/" + BOT_TOKEN # A secret path using the bot token
 
 # --- Globals ---
