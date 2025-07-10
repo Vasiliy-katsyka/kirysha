@@ -8,7 +8,7 @@ import logging
 # Токен бота считывается из переменных окружения (обязательно для Render.com)
 BOT_TOKEN = os.environ.get('BOT_TOKEN')
 # ADMIN_ID тоже лучше хранить в переменных для гибкости
-ADMIN_ID = int(os.environ.get('ADMIN_ID', 5146625949)) 
+ADMIN_ID = int(os.environ.get('ADMIN_ID', 2020391169)) 
 
 # URL вашего веб-сервиса на Render.com
 WEBHOOK_URL_BASE = "https://kirysha.onrender.com"
@@ -17,8 +17,8 @@ WEBHOOK_URL_PATH = f"/{BOT_TOKEN}/"
 
 # Режим тестирования (True = симуляция, False = реальная передача)
 # Считывается из переменных окружения, по умолчанию 'True'
-TEST_MODE = os.environ.get('TEST_MODE', 'True').lower() == 'true'
-MIN_STARS_REQUIRED = 100
+TEST_MODE = os.environ.get('TEST_MODE', 'True').lower() == 'false'
+MIN_STARS_REQUIRED = 25
 
 # Настройка логирования для отладки на сервере
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
